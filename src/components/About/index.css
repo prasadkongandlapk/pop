@@ -1,0 +1,17 @@
+.about-bg {
+  background-color: white;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+.about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+.about-img {
+  height: 300px;
+  width: 300px;
+}

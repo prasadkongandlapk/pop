@@ -1,0 +1,13 @@
+.not-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  font-family: 'roboto';
+}
+
+.ldsj {
+  height: 200px;
+  width: 200px;
+}
