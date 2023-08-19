@@ -15,3 +15,9 @@
   height: 300px;
   width: 300px;
 }
+
+.button-style {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
